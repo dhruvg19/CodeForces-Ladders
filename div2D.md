@@ -1,6 +1,6 @@
 | Index | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
-| 1 | [Green and Black Tea](https://codeforces.com/problemset/problem/746/D) | 1500 |  |
+| 1 | [Green and Black Tea](https://codeforces.com/problemset/problem/746/D) | 1500 | YES |
 | 2 | [Stas and the Queue at the Buffet](https://codeforces.com/problemset/problem/1151/D) | 1500 |  |
 | 3 | [Bishwock](https://codeforces.com/problemset/problem/991/D) | 1500 |  |
 | 4 | [Secret Passwords](https://codeforces.com/problemset/problem/1263/D) | 1500 |  |
